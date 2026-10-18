@@ -64,8 +64,8 @@ export function hubAlternates(): Alternate[] {
 export function homeAlternates(): Alternate[] {
   return [
     { lang: 'de', href: '/' },
-    { lang: 'it', href: '/it' },
-    { lang: 'en', href: '/en' },
+    { lang: 'it', href: '/it/' },
+    { lang: 'en', href: '/en/' },
     { lang: 'x-default', href: '/' },
   ];
 }
